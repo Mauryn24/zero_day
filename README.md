@@ -1,1 +1,1 @@
-'This is a code'
+Task 1. Hello ubuntu
